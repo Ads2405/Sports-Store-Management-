@@ -1,4 +1,4 @@
-############# IMPORTING MODULES   ###################
+#IMPORTING MODULES
 
 from tkinter import *
 import mysql.connector
